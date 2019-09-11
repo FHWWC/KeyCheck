@@ -15,6 +15,9 @@
 5.增加检查更新，应用介绍,UI更新
 
 
-0.7 beta
+0.8 beta
 1.增加分享密钥数据库。
 2.增加被封密钥数据库。
+3.修复右键菜单因为错误的值导致程序崩溃的问题
+4.增加在线检测密钥网站：http://pkeytools.azurewebsites.net/KeyCheck.aspx
+5.UI修改
