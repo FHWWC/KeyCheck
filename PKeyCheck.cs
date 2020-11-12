@@ -1,13 +1,9 @@
  protected void Page_Load(object sender, EventArgs e)
         {
-            wbfm = this;
             if (!IsPostBack)
             {
                 ViewState["keys"] = keys;
-                ViewState["state"] = BtnState;
-                ViewState["canuse"] = canUse;
                 ViewState["ProductN"] = productN;
-                ViewState["KeyCheckR"] = "";
 
                 if(Session["checkOption1"]==null)
                 {
