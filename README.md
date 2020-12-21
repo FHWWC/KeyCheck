@@ -1,6 +1,6 @@
 # 密钥检测/密钥分享/密钥查询 等微软产品激活相关
 
-密钥检测工具网页版：http://pkeytools.azurewebsites.net （永久域名）  
+密钥检测工具网页版：https://pkeytools.azurewebsites.net （永久域名）  
 <br/>
 <br/>
 密钥检测API，方式GET，返回XML文档：https://pkeytools.azurewebsites.net/CK/?K= 密钥 &nodb= 0或1 &coem= 0或1   （去掉空格）  
