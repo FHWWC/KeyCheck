@@ -1,0 +1,21 @@
+SQL Serve 2019
+Express
+https://download.microsoft.com/download/2/1/6/216eb471-e637-4517-97a6-b247d8051759/SQL2019-SSEI-Expr.exe
+
+Developer Edition 
+Chinese (Simplified)
+https://download.microsoft.com/download/c/d/4/cd466ca8-ad1e-4ba9-8590-cda56802ac85/SQLServer2019-x64-CHS-Dev.iso
+English
+https://download.microsoft.com/download/7/c/1/7c14e92e-bdcb-4f89-b7cf-93543e7112d1/SQLServer2019-x64-ENU-Dev.iso
+Chinese Traditional
+https://download.microsoft.com/download/1/c/e/1cef21d3-9a3f-40ba-97b2-12fac0252c86/SQLServer2019-x64-CHT-Dev.iso
+
+
+SQL Server 2017 
+Developer Edition 
+Chinese (Simplified)
+https://download.microsoft.com/download/6/4/A/64A05A0F-AB28-4583-BD7F-139D0495E473/SQLServer2017-x64-CHS-Dev.iso
+English
+https://download.microsoft.com/download/E/F/2/EF23C21D-7860-4F05-88CE-39AA114B014B/SQLServer2017-x64-ENU-Dev.iso
+Chinese Traditional
+https://download.microsoft.com/download/E/E/1/EE15732E-7103-48B5-9CC0-237C088E5FF3/SQLServer2017-x64-CHT-Dev.iso
