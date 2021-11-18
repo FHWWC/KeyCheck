@@ -16,4 +16,4 @@ https://officecdn.microsoft.com/db/{0}/media/{1}/Word{2}Retail.img*
 
 https://officecdn.microsoft.com/db/{0}/media/{1}/O365HomePremRetail.img*
 https://officecdn.microsoft.com/db/{0}/media/{1}/O365BusinessRetail.img*
-https://officecdn.microsoft.com/db/{0}/media/{1}/O365ProPlusRetail.img*
+https://officecdn.microsoft.com/db/{0}/media/{1}/O365ProPlusRetail.img
