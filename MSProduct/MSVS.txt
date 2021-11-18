@@ -1,0 +1,54 @@
+Visual Studio 2022 Community Web Installer
+https://aka.ms/vs/17/release/vs_community.exe
+
+Visual Studio 2022 Professional Web Installer
+https://aka.ms/vs/17/release/vs_professional.exe
+
+Visual Studio 2022 Enterprise Web Installer
+https://aka.ms/vs/17/release/vs_enterprise.exe
+
+
+Visual Studio 2019 Community Web Installer
+https://aka.ms/vs/16/release/vs_community.exe
+
+Visual Studio 2019 Professional Web Installer
+https://aka.ms/vs/16/release/vs_professional.exe
+
+Visual Studio 2019 Enterprise Web Installer
+https://aka.ms/vs/16/release/vs_enterprise.exe
+
+
+Visual Studio 2017 Community Web Installer
+https://aka.ms/vs/15/release/vs_community.exe
+
+Visual Studio 2017 Professional Web Installer
+https://aka.ms/vs/15/release/vs_professional.exe
+
+Visual Studio 2017 Enterprise Web Installer
+https://aka.ms/vs/15/release/vs_enterprise.exe
+
+
+Visual Studio 2015 Update 3 ISO
+https://go.microsoft.com/fwlink/?Linkid=708984
+
+Visual Studio 2015 Community Web Installer
+https://go.microsoft.com/fwlink/?LinkId=532606
+
+Visual Studio 2015 Community ISO
+https://go.microsoft.com/fwlink/?LinkId=615448
+
+Visual Studio 2015 Professional Web Installer
+https://go.microsoft.com/fwlink/?LinkId=615435
+
+Visual Studio 2015 Professional ISO
+https://go.microsoft.com/fwlink/?LinkId=615436
+
+Visual Studio 2015 Enterprise Web Installer
+https://go.microsoft.com/fwlink/?LinkId=615437
+
+Visual Studio 2015 Enterprise ISO
+https://go.microsoft.com/fwlink/?LinkId=615436
+
+
+Visual Studio 2013 Update 5 ISO
+https://go.microsoft.com/fwlink/?LinkId=532504
